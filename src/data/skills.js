@@ -19,8 +19,7 @@ let SkillsSoftware = [
 	"Gulp.js",
 	"Various Adobe products",
 	"Marvel",
-	"Figma",
-	"Lazyloading"
+	"Figma"
 ]
 
 let SkillsMisc = [
@@ -28,6 +27,9 @@ let SkillsMisc = [
 	"Github & Gitlab Issues",
 	"Teamwork",
 	"Mentoring",
+	"An understanding of how OOP works in PHP, including Namespaces, Composer usage for autoloading classes etc",
+	"An understanding of how components work in JS frameworks, including props",
+	"A good understanding of how to write DRY code, using a functional based approach in JS or PHP"
 ]
 
 module.exports = {
